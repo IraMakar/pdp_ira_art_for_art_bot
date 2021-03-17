@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dialogflow-full-nodered": "^1.0.10",
     "node-red": "^1.2.9"
   }
 }

@@ -1,7 +1,7 @@
 {
     "node-red": {
         "name": "node-red",
-        "version": "1.2.7",
+        "version": "1.2.6",
         "local": false,
         "nodes": {
             "inject": {
@@ -371,7 +371,7 @@
                 "enabled": true,
                 "local": true,
                 "module": "node-red-node-rbe",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/node-red-node-rbe/rbe.js"
+                "file": "/Users/ola/Desktop/PDPira/pdp_bot_ira/node_modules/node-red-node-rbe/rbe.js"
             }
         }
     },
@@ -388,7 +388,7 @@
                 "enabled": true,
                 "local": true,
                 "module": "node-red-node-tail",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/node-red-node-tail/28-tail.js"
+                "file": "/Users/ola/Desktop/PDPira/pdp_bot_ira/node_modules/node-red-node-tail/28-tail.js"
             }
         }
     },
@@ -406,7 +406,7 @@
                 "enabled": true,
                 "local": true,
                 "module": "dialogflow-full-nodered",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/dialogflow-full-nodered/dialogflowv2.js"
+                "file": "/Users/ola/Desktop/PDPira/pdp_bot_ira/node_modules/dialogflow-full-nodered/dialogflowv2.js"
             }
         }
     }
