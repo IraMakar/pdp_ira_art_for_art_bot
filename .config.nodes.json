@@ -358,6 +358,24 @@
             }
         }
     },
+    "dialogflow-full-nodered": {
+        "name": "dialogflow-full-nodered",
+        "version": "1.0.10",
+        "local": true,
+        "nodes": {
+            "dialogflowv2": {
+                "name": "dialogflowv2",
+                "types": [
+                    "dialogflowv2-token",
+                    "dialogflowv2"
+                ],
+                "enabled": true,
+                "local": true,
+                "module": "dialogflow-full-nodered",
+                "file": "/Users/makarova/Desktop/pdp_ira_oto/pdp_bot_ira/node_modules/dialogflow-full-nodered/dialogflowv2.js"
+            }
+        }
+    },
     "node-red-node-rbe": {
         "name": "node-red-node-rbe",
         "version": "0.2.9",
@@ -371,7 +389,7 @@
                 "enabled": true,
                 "local": true,
                 "module": "node-red-node-rbe",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/node-red-node-rbe/rbe.js"
+                "file": "/Users/makarova/Desktop/pdp_ira_oto/pdp_bot_ira/node_modules/node-red-node-rbe/rbe.js"
             }
         }
     },
@@ -388,25 +406,7 @@
                 "enabled": true,
                 "local": true,
                 "module": "node-red-node-tail",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/node-red-node-tail/28-tail.js"
-            }
-        }
-    },
-    "dialogflow-full-nodered": {
-        "name": "dialogflow-full-nodered",
-        "version": "1.0.10",
-        "local": true,
-        "nodes": {
-            "dialogflowv2": {
-                "name": "dialogflowv2",
-                "types": [
-                    "dialogflowv2-token",
-                    "dialogflowv2"
-                ],
-                "enabled": true,
-                "local": true,
-                "module": "dialogflow-full-nodered",
-                "file": "/Users/makarova/Desktop/PDPira2/pdp_bot_ira/node_modules/dialogflow-full-nodered/dialogflowv2.js"
+                "file": "/Users/makarova/Desktop/pdp_ira_oto/pdp_bot_ira/node_modules/node-red-node-tail/28-tail.js"
             }
         }
     }
