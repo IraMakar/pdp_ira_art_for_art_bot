@@ -409,5 +409,20 @@
                 "file": "/Users/taraskalynii/Desktop/pdp_ira_oto/pdp_bot_ira/node_modules/node-red-node-tail/28-tail.js"
             }
         }
+    },
+    "node-red-contrib-amqp": {
+        "name": "node-red-contrib-amqp",
+        "version": "1.0.2",
+        "local": true,
+        "nodes": {
+            "amqp": {
+                "name": "amqp",
+                "types": [],
+                "enabled": true,
+                "local": true,
+                "module": "node-red-contrib-amqp",
+                "file": "/Users/taraskalynii/Desktop/pdp_ira_oto/pdp_bot_ira/node_modules/node-red-contrib-amqp/lib/amqp.js"
+            }
+        }
     }
 }
