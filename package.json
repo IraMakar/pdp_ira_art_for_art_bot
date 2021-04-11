@@ -13,6 +13,6 @@
   "dependencies": {
     "dialogflow-full-nodered": "^1.0.10",
     "node-red": "^1.2.9",
-    "node-red-contrib-amqp": "^1.0.2"
+    "node-red-contrib-amqp": "1.0.3"
   }
 }
